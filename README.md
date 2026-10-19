@@ -61,9 +61,10 @@ y buscá los Issues con la etiqueta `good first issue`.
 
 ## Comunidad
 
-- Canal de chat: [pendiente: Discord o Telegram]
-- Reunión abierta mensual: [pendiente]
-- Contacto: [correo del proyecto]
+- Canal de chat: pendiente (Discord o Telegram)
+- Reunión abierta mensual: pendiente
+- Contacto: info@nandenewen.example.org (correo de prueba)
+- Reportes de seguridad: security@nandenewen.example.org
 
 ## Licencia
 

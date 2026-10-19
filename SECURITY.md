@@ -1,8 +1,8 @@
 # Política de seguridad
 
-## Reportar una vulnerabilidad
+## Contacto para reportes de vulnerabilidades
 
-**No abras un Issue público.** Escribí a [correo-seguridad] con:
+**No abras un Issue público.** Escribí a security@nandenewen.example.org con:
 
 - Descripción del problema
 - Pasos para reproducirlo
