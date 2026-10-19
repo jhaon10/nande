@@ -1,3 +1,5 @@
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE) [![Discussions](https://img.shields.io/badge/Discussions-on%20GitHub-lightgrey.svg)](https://github.com/jhaon10/nande/discussions)
+
 # Ñande
 
 *Ñande* es una palabra guaraní que significa **"nosotros"**, incluyéndote a vos. No "nosotros contra ellos": nosotros todos.
@@ -58,6 +60,12 @@ originarias e inglés. Ver [docs/IDIOMAS.md](docs/IDIOMAS.md).
 **No hace falta saber programar.** Se necesita gente de código, diseño, datos, traducción,
 comunicación y trabajo en terreno. Empezá por [CONTRIBUTING.md](CONTRIBUTING.md)
 y buscá los Issues con la etiqueta `good first issue`.
+
+### Recursos rápidos para empezar
+
+- Lee el [CONTRIBUTING.md](CONTRIBUTING.md) para el flujo de trabajo.
+- Revisa los issues etiquetados `good first issue` o `ayuda necesaria`.
+- Si vas a trabajar, comenta "me lo asigno" en el Issue.
 
 ## Comunidad
 
